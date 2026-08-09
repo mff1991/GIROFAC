@@ -1,6 +1,7 @@
 # GIROFAC — Plataforma ERP Web Integral
 [![ca](https://img.shields.io/badge/lang-català-yellow.svg)](README.md)
 [![en](https://img.shields.io/badge/lang-english-blue.svg)](README_EN.md)
+
 GIROFAC es una plataforma ERP web orientada a la gestión integral de negocio bajo una arquitectura modular y escalable. El proyecto se adopta inicialmente bajo un entorno de desarrollo local basado en la pila **LAMP/XAMPP** (Linux/Windows, Apache, MariaDB/MySQL, PHP 8.x), diseñado con patrones de desarrollo desconectados que garantizan una transición inmediata hacia infraestructuras en la nube (VPS, PaaS o entornos contenedorizados) sin refactorización del código fuente.
 
 La interfaz se basa en principios **Mobile-First** y diseño adaptativo (*responsive*), garantizando la accesibilidad desde cualquier dispositivo y aplicando un control de acceso basado en roles (**RBAC**) que adapta la experiencia de usuario y la visibilidad de los módulos en tiempo real.
