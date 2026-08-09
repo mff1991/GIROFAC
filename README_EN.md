@@ -9,6 +9,7 @@ GIROFAC is an all-in-one web ERP platform designed for comprehensive business ma
 
 The interface follows **Mobile-First** principles and responsive design, ensuring seamless accessibility from any device and enforcing Role-Based Access Control (**RBAC**) that adapts the user experience and module visibility in real time.
 
+** 01/07/2026: Project in development **
 ---
 
 ## System Modules
