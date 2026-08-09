@@ -4,7 +4,7 @@ GIROFAC és una plataforma ERP web orientada a la gestió integral de negoci sot
 
 La interfície es basa en principis **Mobile-First** i disseny adaptatiu (*responsive*), garantint l'accessibilitat des de qualsevol dispositiu i aplicant un control d'accés basat en rols (**RBAC**) que adapta l'experiència d'usuari i la visibilitat dels mòduls en temps real.
 
-**01/07/2026: PROJECTE EN DESENVOLUPAMENT **
+**01/07/2026: PROJECTE EN DESENVOLUPAMENT**
 
 ---
 
