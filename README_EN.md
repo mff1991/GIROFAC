@@ -1,3 +1,6 @@
+ <img src="logo.jpg" alt="GiroFact Logo" width="400"/>
+</p>
+
 # GIROFAC — Comprehensive Web ERP Platform
 [![ca](https://img.shields.io/badge/lang-català-yellow.svg)](README.md)
 [![es](https://img.shields.io/badge/lang-español-red.svg)](README_ES.md)
